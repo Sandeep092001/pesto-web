@@ -20,13 +20,13 @@ export default function RootLayout({ children }) {
     //     <body className={inter.className}>{children}</body>
     // </html>
 
-  <section>
+  <div>
     <Navbar />
     
     {children}
 
     <Footer />
-  </section>
+  </div>
 
   )
 }

@@ -9,13 +9,13 @@ export default function Home() {
     <div>
       <Carousels />
     </div>
-    <section>
+    <div>
       <About />
       <Advantages />
-    </section>
-    <section>
+    </div>
+    <div>
       <FeaturedProducts />
-    </section>
+    </div>
     </main>
   )
 }

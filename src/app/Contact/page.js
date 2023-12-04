@@ -9,13 +9,13 @@ function page() {
             Address 
           </h2>
           <div className="bg-white rounded p-5 justify-items-center justify-center max-w-md mx-auto">
-           <p> <span className="text-xl font-semibold">Address</span> - 441/D Pranal Enclave 23rd main Ayodhyanagara </p>
+           {/* <p> <span className="text-xl font-semibold">Address</span> - 441/D Pranal Enclave 23rd main Ayodhyanagara </p>
            <p> J.P nagara 5th phase Bangalore - 78 </p>
             <p>Karnataka, India </p>
             <br />
             <p><span className="text-xl font-semibold">Phone number </span>- 080-40903897/+91-9845615811</p>
             <br />
-            <p><span className="text-xl font-semibold">Email</span> - tejassh99@gmail.com </p><br />
+            <p><span className="text-xl font-semibold">Email</span> - tejassh99@gmail.com </p><br /> */}
           </div>
         </div>
 
